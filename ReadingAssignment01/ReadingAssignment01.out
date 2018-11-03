@@ -1,0 +1,21 @@
+\BOOKMARK [1][-]{section.1}{مقاله اول}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{علل استفاده از تابع فعال‌سازی خطی یکسوشده}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{مقایسه‌ی شبکه‌های عمیق و کم‌عمق}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{مقایسه‌ی شبکه‌های feedforward و recurrent}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{مفاهیم محو و انفجار گرادیان در شبکه‌های عصبی}{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.5}{شباهت شبکه‌های مصنوعی تشخیص تصاویر با شبکه‌های زیستی مغز}{section.1}% 6
+\BOOKMARK [2][-]{subsection.1.6}{Attacks\040Adversarial}{section.1}% 7
+\BOOKMARK [2][-]{subsection.1.7}{بررسی ناحیه‌ی IT در مغز و شباهت‌های آن با شبکه‌ها عصبی}{section.1}% 8
+\BOOKMARK [1][-]{section.2}{مقاله دوم}{}% 9
+\BOOKMARK [2][-]{subsection.2.1}{ارجحیت مدل ارائه‌شده در مقایسه با مدل‌های معمول RNN}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.2}{روش آموزش شبکه}{section.2}% 11
+\BOOKMARK [2][-]{subsection.2.3}{چگونگی اضافه کردن نورون‌های excitatory و inhibitory به RNN های معمولی}{section.2}% 12
+\BOOKMARK [2][-]{subsection.2.4}{مشکل انفجار گرادیان}{section.2}% 13
+\BOOKMARK [2][-]{subsection.2.5}{بررسی تسک‌های مختلف مبتنی بر مدل ارائه‌شده}{section.2}% 14
+\BOOKMARK [3][-]{subsubsection.2.5.1}{تسک تصمیم‌گیری ادراکی}{subsection.2.5}% 15
+\BOOKMARK [3][-]{subsubsection.2.5.2}{تسک پارامتری حافظه‌ی کاری \(Parametric working memory task\) }{subsection.2.5}% 16
+\BOOKMARK [1][-]{section.3}{مقاله سوم}{}% 17
+\BOOKMARK [2][-]{subsection.3.1}{انواع کدهای نورونی}{section.3}% 18
+\BOOKMARK [2][-]{subsection.3.2}{مدل‌سازی محاسباتی}{section.3}% 19
+\BOOKMARK [2][-]{subsection.3.3}{backpropagation}{section.3}% 20
+\BOOKMARK [2][-]{subsection.3.4}{کدگذاری متغیرها}{section.3}% 21
